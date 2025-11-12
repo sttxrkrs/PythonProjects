@@ -1,6 +1,5 @@
 import random
 
-# Introducción tipo "recuadro"
 intro = [
     "==============================================",
     "                 BLACKJACK 21",
